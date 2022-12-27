@@ -1,1 +1,1 @@
-echo "${EVN_1}"
+echo "${ENV_1}"

@@ -1,1 +1,1 @@
-echo "${ENV_1}"
+docker build -t "$(echo $ENV_1)"
